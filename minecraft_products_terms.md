@@ -21,7 +21,7 @@ We are not liable for any damage our products may cause to you or your services.
 Transaction cases/disputes/chargebacks that are fought and lost by the customer will cause their product to not return to them.
 ```
 ```
-Information such as server IP addresses, hashed player IP addresses, server Ports, user platform IDs, e.t.c may be collected, all of which is necessary to implement functionality for our software. Visit https://github.com/IdealisticAI/Products-And-Services/blob/main/minecraft_cloud_feature.md to learn more.
+Information such as server IP addresses, server Ports, user platform IDs, e.t.c may be collected, all of which is necessary to implement functionality for our software. Visit https://github.com/IdealisticAI/Products-And-Services/blob/main/minecraft_cloud_feature.md to learn more.
 ```
 ```
 Our offers, product contents and duration of purchases are subject to change at any moment without notification. Additionally, any claimed percentages or estimates may be slightly differ to appear more appealing.
