@@ -1,6 +1,3 @@
-## SpigotMC Platform:
-SpigotMC is not a sales platform but a forum community. They offer a Premium Resources section with strict rules as a way for users/members to contribute to developers who’s projects require financial support. Still, the main focus is on the free resources and forums. Other platforms such as BuiltByBit and Polymart do offer a handy amount of seller tools and thus make it clear that their intentions are for users/members to use their platform to practice sales. For this reason, unless deemed absolutely necessary, a refund for SpigotMC purchases is not offered.
-
 ## Time Limitations:
 * Refund requests beyond exactly 120 hours of the purchase date are not eligible, unless we decide to exempt this term.
 * Refund requests which have been unfulfilled due to the customer’s fault expire 48 hours after their request date. New ones can be submitted based on the new date & information.
