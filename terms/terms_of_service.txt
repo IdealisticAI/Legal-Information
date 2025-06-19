@@ -1,1 +1,108 @@
+TERMS OF SERVICE  
+Last updated: 19th of July 2025
+
+Welcome to Idealistic AI ("we", "us", or "our"). By using our software, platform, integrations, and related services (the "Service"), you agree to these Terms of Service.
+
+Please read them carefully.
+
+1. ELIGIBILITY  
+To use the Service, you must be at least 16 years old or meet the minimum age in your country to consent to data processing.
+
+2. DESCRIPTION OF SERVICE  
+Our software provides organizational and collaboration tools, including:
+
+- Role Management:
+  - Creation
+  - Deletion
+  - Rename
+  - Assign
+  - Unassign
+
+- User Management:
+  - Add Manually
+  - Accept via Request
+
+- Access Control (by Team, Role, or User):
+  - General Access
+  - Time Access
+  - Past Access
+  - Purpose Access
+
+- Instruction Distribution:
+  - Instructions to Team
+
+- Case Management:
+  - Open
+  - Close
+  - Select
+  - Add To
+  - Remove From
+
+- Target Management:
+  - Open
+  - Close
+  - Select
+  - Add To
+  - Remove From
+
+- Image Management:
+  - Raw Creation
+  - Reference Creation
+
+- File Management:
+  - Raw Creation
+  - Reference Modification
+
+- Hierarchical System:
+  - Support for tiered teams, sub-roles, and access levels
+
+- Study Links:
+  - Add and manage external links or URLs for reference
+
+- Customization:
+  - Modify Timezone
+  - Automatically Adjusted Language
+  - Adjustable Voice Replies
+  - Scheduled Notifications and Reminders
+
+The Service is usable within third-party platforms such as Instagram, Telegram, Discord, and others.
+
+3. USER RESPONSIBILITIES  
+You agree to:
+- Use the Service only for lawful purposes
+- Not misuse or disrupt the Service
+- Respect access restrictions and user privacy
+- Not reverse-engineer, duplicate, or resell the Service
+- Ensure you have permission to manage users or roles on any connected platform
+
+4. DATA & PRIVACY  
+We do NOT sell, rent, or share personal data with third parties.  
+You are responsible for the content and data you upload.  
+You must comply with all data protection laws including the GDPR.  
+See our Privacy Policy for full details.
+
+5. INTEGRATIONS  
+By using the Service within third-party platforms (e.g., Instagram, Messenger, WhatsApp, Telegram, Discord), you also agree to follow those platforms’ Terms of Service and Privacy Policies.  
+We are not responsible for actions, outages, or policies from those platforms.
+
+6. TERMINATION  
+We may suspend or terminate your access if:
+- You violate these terms
+- You abuse or disrupt the Service
+- We are required to by law or platform rules
+
+You may stop using the Service at any time.
+
+7. LIMITATION OF LIABILITY  
+To the fullest extent permitted by law, we are not liable for any indirect, incidental, or consequential damages.  
+This includes, but is not limited to, data loss, communication failures, or service outages.
+
+8. CHANGES TO TERMS  
+We may update these terms at any time.  
+Continued use of the Service after such changes constitutes acceptance of the updated terms.
+
+9. CONTACT  
+If you have any questions, contact us at:  
+Idealistic AI
+contact@idealistic.ai
 
