@@ -1,7 +1,7 @@
 PRIVACY POLICY  
 Effective Date: 19th June 2025
 
-At [Your Company Name] ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
+At Idealistic AI ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
 
 1. DATA WE COLLECT  
 We may collect the following types of personal data:
@@ -44,7 +44,7 @@ Under the GDPR, you have the right to:
 - Withdraw consent
 - File a complaint with a supervisory authority
 
-To exercise your rights, contact us at: [Insert Contact Email]
+To exercise your rights, contact us at: contact@idealistic.ai
 
 7. DATA SECURITY  
 We use appropriate technical and organizational measures to safeguard your personal data against loss, misuse, or unauthorized access.
