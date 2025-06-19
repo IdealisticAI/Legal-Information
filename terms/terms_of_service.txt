@@ -9,7 +9,7 @@ Please read them carefully.
 To use the Service, you must be at least 16 years old or meet the minimum age in your country to consent to data processing.
 
 2. DESCRIPTION OF SERVICE  
-Our software provides organizational and collaboration tools, including:
+Our software provides organizational and collaboration tools, of which some include:
 
 - Manager Management:
   - Creation
@@ -29,8 +29,6 @@ Our software provides organizational and collaboration tools, including:
 - Access Control (by Team, Role, or User):
   - General Access
   - Time Access
-  - Past Access
-  - Purpose Access
 
 - Instruction Distribution:
   - Instructions to Team
