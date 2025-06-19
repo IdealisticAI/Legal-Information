@@ -1,1 +1,62 @@
+PRIVACY POLICY  
+Effective Date: 19th June 2025
 
+At [Your Company Name] ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
+
+1. DATA WE COLLECT  
+We may collect the following types of personal data:
+- Name and contact details (e.g., email address)
+- User account or profile information
+- Communication data (e.g., messages, support requests)
+- Technical data (e.g., IP address, browser type)
+
+2. PURPOSES OF DATA PROCESSING  
+We process your personal data to:
+- Provide and maintain our services
+- Communicate with you
+- Ensure website or platform security
+- Fulfill legal obligations
+
+3. LEGAL BASIS  
+We process personal data based on:
+- Your consent
+- Contractual necessity
+- Legal obligations
+- Legitimate interests
+
+4. DATA SHARING  
+We do NOT sell, rent, or share your personal data with third parties for marketing or any unrelated purposes.
+
+Data may only be shared:
+- When required by law
+- With trusted service providers under strict confidentiality
+- To protect users or our systems
+
+5. DATA RETENTION  
+We retain your data only as long as necessary for the stated purposes or as required by law. Data no longer needed will be securely deleted or anonymized.
+
+6. YOUR RIGHTS  
+Under the GDPR, you have the right to:
+- Access your data
+- Correct inaccuracies
+- Request deletion
+- Object to or restrict processing
+- Withdraw consent
+- File a complaint with a supervisory authority
+
+To exercise your rights, contact us at: [Insert Contact Email]
+
+7. DATA SECURITY  
+We use appropriate technical and organizational measures to safeguard your personal data against loss, misuse, or unauthorized access.
+
+8. INTERNATIONAL DATA TRANSFERS  
+We do not transfer your personal data outside the European Economic Area (EEA). If such transfer becomes necessary, it will be done under GDPR-compliant safeguards.
+
+9. CHANGES TO THIS POLICY  
+We may update this privacy policy periodically. Changes will be communicated via our website or directly where applicable.
+
+CONTACT US  
+If you have questions about this policy or your data, you can contact us at:  
+Idealistic AI
+contact@idealistic.ai
+Loukissia 34100, Euboea, Greece
