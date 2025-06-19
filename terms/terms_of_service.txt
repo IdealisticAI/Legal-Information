@@ -11,6 +11,10 @@ To use the Service, you must be at least 16 years old or meet the minimum age in
 2. DESCRIPTION OF SERVICE  
 Our software provides organizational and collaboration tools, including:
 
+- Manager Management:
+  - Creation
+  - Deletion
+
 - Role Management:
   - Creation
   - Deletion
