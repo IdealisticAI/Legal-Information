@@ -48,8 +48,9 @@ When you operate BigManage through third-party platforms (Instagram, Telegram, D
 • Prohibited: illegal content, harassment, doxxing, pornographic or extremist material, malware, or activity that violates a connected platform’s rules.  
 • Attachments & Links: You may upload and instruct BigManage to process files and URLs; do not upload content you do not have rights to or that violates law or policy.
 
-10. REMINDERS, VOICE, LANGUAGE, TIMEZONE
+10. REMINDERS, DEADLINES, VOICE, LANGUAGE, TIMEZONE
 • Reminders: you may schedule reminders for company, positions, or employees; accuracy, delivery and platform support are subject to platform constraints.
+• Deadlines: you may schedule deadlines for company, positions, or employees; accuracy, delivery and platform support are subject to platform constraints.
 • Voice Replies: voice reply support varies by platform; enabling voice replies may send audio through supported channels.
 • Automatic Language: BigManage uses the last language seen in conversation as the default language for replies.
 
