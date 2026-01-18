@@ -1,85 +1,67 @@
-TERMS OF USE
-Effective Date: 5th of September 2025
-Software: BigManage by Idealistic
-Contact: contact@idealistic.ai
-Website: https://www.idealistic.ai/
+PRIVACY POLICY
+Effective Date: 18th of January 2026
 
-1. AGREEMENT
-By using BigManage ("Service") you agree to these Terms of Use. If you do not agree, do not use the Service.
+At Idealistic ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
 
-2. SERVICE OVERVIEW
-BigManage is a chat-prompt-driven collaboration and company-management tool that extracts and organizes information from user chat prompts to manage companies, employees, positions, hierarchy, access controls, attachments, links, reminders, and integrations with third-party messaging platforms. The Service is intentionally conversational — most actions are performed via chat prompts rather than traditional menus and buttons.
+1. DATA WE COLLECT
+We collect data necessary to function as an organizational management tool. This includes:
+- Identity Data: Name, role/title, and contact details (e.g., email address, phone number).
+- Interaction Data: Content of messages, commands, and queries sent through our supported interfaces (e.g., WhatsApp, Discord, Telegram).
+- Organizational Data: Hierarchical relationships (managers, subordinates), salaries (if provided), and team structures.
+- Technical Data: IP addresses, browser types, and device identifiers used to access our web portals.
 
-3. SUPPORTED PLATFORMS
-BigManage can be used via Instagram, Meta Messenger, WhatsApp, Discord, Telegram, email and similar messaging platforms. When you connect BigManage to a third-party platform, you must also comply with that platform’s terms and policies.
+2. PURPOSES OF DATA PROCESSING
+We process your personal data to:
+- Provide the Service: Facilitate company management, hierarchy tracking, and automated reporting.
+- AI Processing: Analyze text inputs ("prompts") to extract intent and execute management commands.
+- Security & Logs: Maintain the integrity of our systems and prevent abuse.
+- Compliance: Fulfill legal and tax obligations.
 
-4. KEY FEATURES (SUMMARY)
-• Company Management: create, join, switch, transfer, and rename companies.
-• Employee & Position Management: add employees (by email or accept request), create/rename/delete positions, assign/unassign employees to positions, set and modify hierarchical relations. Note: once an employee joins a company they cannot be removed by deletion—only their access can be managed.  
-• Access Controls: general access, time-limited access, past (historical) access and purpose-based access can be set at company, position, or employee level. 
-• Managers: managers have elevated permissions (create positions/departments, manage access, and perform other company-wide actions).
-• Attachments & Files: create/upload images and non-image files, create images from text or reference images, modify files, search attachments.
-• Links & External Resources: add, study and manage external URLs for company/position/employee reference.
-• Reminders & Notifications: schedule company-, position-, or employee-level reminders and notifications with flexible recurrence.
-• Customization: modify timezone per user/company, automatic language selection based on last-used language, optional voice replies (where supported).
+3. LEGAL BASIS
+We process personal data based on:
+- Contractual Necessity: To deliver the services defined in our Terms of Use.
+- Legitimate Interests: To improve our AI models, ensure security, and maintain historical organizational records.
+- Legal Obligations: Compliance with labor and tax laws.
 
-5. ACCOUNT & COMPANY RULES
-a. Creating / Joining: To begin you create or request to join a company. Company creators/owners may transfer ownership following verification procedures.
-b. Employee Lifecycle: Employees may be added by email or join by request. Employees who join a company cannot be deleted; administrators should instead change access levels if separation is required.
-c. Roles & Hierarchy: Positions (roles) may be created, renamed, assigned and deleted; hierarchical relationships can be adjusted to represent reporting lines.
+4. THIRD-PARTY PLATFORMS & DATA SHARING
+Crucial Notice regarding Messaging Platforms:
+Our service operates via third-party interfaces (including but not limited to WhatsApp, Discord, and Telegram). By choosing to use our service through these platforms, you acknowledge that data transmission is subject to the privacy policies and infrastructure of those providers.
 
-6. USER OBLIGATIONS
-You must:  
-• Use the Service lawfully and only for permitted purposes;  
-• Maintain the confidentiality of credentials and promptly report unauthorized access;  
-• Ensure you have permission to add/manage users, roles, or data that relate to third parties;  
-• Not attempt to bypass access controls, reverse-engineer the Service, or otherwise abuse the system.
+- We do NOT sell your personal data.
+- We share data with trusted infrastructure providers (e.g., hosting services in Germany) strictly for the purpose of running the application.
 
-7. DATA, PRIVACY & SECURITY
-• Data Storage: BigManage transfers data via supported platforms and stores data in isolated data centers in Germany. We do not sell personal data.
-• Responsibility: You remain responsible for content you upload or provide to the Service (attachments, links, personal data). Ensure you have appropriate rights and consents for any third-party content.
-• GDPR & Compliance: The Service is designed with GDPR considerations in mind; users and controllers are responsible for their own compliance (e.g., lawful bases, data subject requests). See the Privacy Policy for full details.
-• Security Measures: We apply technical and organizational safeguards appropriate to the risk, but cannot guarantee absolute security. Promptly report suspected breaches to the contact email above.
+5. DATA RETENTION & ANONYMIZATION
+We retain personal data only as long as necessary for the stated purposes.
 
-8. INTEGRATIONS & THIRD-PARTY PLATFORMS
-When you operate BigManage through third-party platforms (Instagram, Telegram, Discord, etc.), actions and data flows may be subject to those platforms’ APIs, rate limits, feature support, and policies. We are not responsible for third-party outages, changes, or policy enforcement.
+- Active Accounts: Data is retained for the duration of the customer agreement.
+- Deletion Requests: Upon a valid request for deletion (Right to Erasure), strictly personal identifiers (Name, Email, Phone) will be permanently anonymized.
+  * Note: Non-personal historical data (e.g., "A Manager approved a request on [Date]") will be retained to preserve the integrity of the company's audit logs.
 
-9. CONTENT AND ACCEPTABLE USE
-• Prohibited: illegal content, harassment, doxxing, pornographic or extremist material, malware, or activity that violates a connected platform’s rules.  
-• Attachments & Links: You may upload and instruct BigManage to process files and URLs; do not upload content you do not have rights to or that violates law or policy.
+6. YOUR RIGHTS
+Under the GDPR, you have the right to:
+- Access & Portability: Request a copy of your personal data.
+- Rectification: Correct inaccurate data.
+- Erasure (Right to be Forgotten): Request the anonymization of your personal identity from our active systems.
+- Restriction & Objection: Object to specific processing activities.
 
-10. REMINDERS, DEADLINES, VOICE, LANGUAGE, TIMEZONE
-• Reminders: you may schedule reminders for company, positions, or employees; accuracy, delivery and platform support are subject to platform constraints.
-• Deadlines: you may schedule deadlines for company, positions, or employees; accuracy, delivery and platform support are subject to platform constraints.
-• Voice Replies: voice reply support varies by platform; enabling voice replies may send audio through supported channels.
-• Automatic Language: BigManage uses the last language seen in conversation as the default language for replies.
+To exercise these rights, contact us at: contact@idealistic.ai
 
-11. FEES & PRICING
-Pricing details are provided separately and/or discussed on a per-use-case basis. By using paid features you agree to the billing terms specified in your contract or order.
+7. DATA SECURITY
+We use appropriate technical and organizational measures (including enterprise-grade encryption) to safeguard your personal data against loss, misuse, or unauthorized access while it is stored on our servers.
 
-12. INTELLECTUAL PROPERTY
-All rights, title and interest in the Service and its content (software, designs, documentation, trademarks) remain with Idealistic or its licensors. You are granted a non-exclusive, non-transferable right to use the Service under these Terms.
+However, we cannot guarantee the security of data while it is being transmitted through third-party messaging apps (e.g., WhatsApp), as this infrastructure is outside our control.
 
-13. LIMITATION OF LIABILITY
-To the maximum extent permitted by law, Idealistic and affiliates are not liable for indirect, incidental, special, consequential or punitive damages, or for loss of profits, data, or goodwill arising from your use of the Service.
+8. INTERNATIONAL DATA TRANSFERS
+Our primary servers are located within the European Economic Area (EEA).
 
-14. TERMINATION AND SUSPENSION
-We may suspend or terminate access for violation of these Terms, abuse of the Service, or legal requirements. You may stop using the Service at any time.
+However, depending on the messaging platform you use to access the service, your data may be processed through servers located outside the EEA (e.g., the United States). By using these platforms, you consent to such transfers, which are governed by the respective platform's Terms of Service.
 
-15. CHANGES TO THESE TERMS
-We may update these Terms of Use; material changes will be communicated. Continued use after notice constitutes acceptance.
+9. CHANGES TO THIS POLICY
+We may update this privacy policy periodically. Changes will be communicated via our website or directly where applicable.
 
-16. GOVERNING LAW
-These Terms are governed by the laws specified in your contract or, absent a contract, by the laws applicable to Idealistic as stated on our website.
+CONTACT US
+If you have questions about this policy or your data, you can contact us at:
 
-17. CONTACT
-Questions, requests or notices should be sent to:  
 Idealistic
-Email: contact@idealistic.ai
+contact@idealistic.ai
 Järvevana tee 9, Tallinn, 11314, Estonia
-
-ACKNOWLEDGMENT
-By using BigManage you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.
-
-
-
