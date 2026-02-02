@@ -1,5 +1,8 @@
 PRIVACY POLICY
 Effective Date: 18th of January 2026
+Software: Idealistic
+Contact: contact@idealistic.ai
+Website: https://www.idealistic.ai/
 Version Number: 1
 
 At Idealistic ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
