@@ -1,68 +1,88 @@
-PRIVACY POLICY
+TERMS OF USE
 Effective Date: 18th of January 2026
-Version Number: 1
+Software: Idealistic
+Contact: contact@idealistic.ai
+Website: https://www.idealistic.ai/
 
-At Idealistic ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
+1. AGREEMENT
+By using Idealistic ("Service"), provided by Idealistic ("we", "us"), you agree to these Terms of Use. If you do not agree, do not use the Service. These Terms apply to all users, administrators, and visitors of the Service.
 
-1. DATA WE COLLECT
-We collect data necessary to function as an organizational management tool. This includes:
-- Identity Data: Name, role/title, and contact details (e.g., email address, phone number).
-- Interaction Data: Content of messages, commands, and queries sent through our supported interfaces (e.g., WhatsApp, Discord, Telegram).
-- Organizational Data: Hierarchical relationships (managers, subordinates), salaries (if provided), and team structures.
-- Technical Data: IP addresses, browser types, and device identifiers used to access our web portals.
+2. SERVICE OVERVIEW & AI DISCLAIMER
+Idealistic is a chat-prompt-driven collaboration and company-management tool. It extracts and organizes information from user chat prompts to manage companies, employees, hierarchy, and access controls.
 
-2. PURPOSES OF DATA PROCESSING
-We process your personal data to:
-- Provide the Service: Facilitate company management, hierarchy tracking, and automated reporting.
-- AI Processing: Analyze text inputs ("prompts") to extract intent and execute management commands.
-- Security & Logs: Maintain the integrity of our systems and prevent abuse.
-- Compliance: Fulfill legal and tax obligations.
+AI Accuracy Warning: The Service uses Artificial Intelligence (AI) and Natural Language Processing (NLP) to interpret commands. While we strive for accuracy, AI can occasionally misinterpret intent or provide incorrect information ("hallucinations"). You agree to verify important outputs (e.g., salary changes, terminations) before acting on them.
 
-3. LEGAL BASIS
-We process personal data based on:
-- Contractual Necessity: To deliver the services defined in our Terms of Use.
-- Legitimate Interests: To improve our AI models, ensure security, and maintain historical organizational records.
-- Legal Obligations: Compliance with labor and tax laws.
+3. SUPPORTED PLATFORMS
+Idealistic operates via third-party interfaces including, but not limited to, Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and Email.
+- You acknowledge that Idealistic does not own or control these platforms.
+- By connecting Idealistic to a third-party platform, you agree to comply with that platform’s Terms of Service and Privacy Policy.
 
-4. THIRD-PARTY PLATFORMS & DATA SHARING
-Crucial Notice regarding Messaging Platforms:
-Our service operates via third-party interfaces (including but not limited to WhatsApp, Discord, and Telegram). By choosing to use our service through these platforms, you acknowledge that data transmission is subject to the privacy policies and infrastructure of those providers.
+4. KEY FEATURES (SUMMARY)
+• Company Management: Create, join, switch, transfer, and rename companies.
+• Employee & Position Management: Add employees, create/rename positions, and assign hierarchies.
+• Access Controls: Set time-limited, historical, or purpose-based access permissions.
+• Managers: Managers have elevated permissions to modify company structures.
+• Attachments & Files: Upload images/files; create AI-generated images from text.
+• Links & External Resources: Manage external URLs for team reference.
+• Reminders & Notifications: Schedule recurring or one-time alerts.
+• Customization: Timezone adjustments, automatic language detection, and optional voice replies.
 
-- We do NOT sell your personal data.
-- We share data with trusted infrastructure providers (e.g., hosting services in Germany) strictly for the purpose of running the application.
+5. ACCOUNT, COMPANY RULES & DATA RETENTION
+a. Creating / Joining: Users create or request to join a company. Company owners may transfer ownership following verification.
+b. Employee Lifecycle & Anonymization: To preserve the integrity of organizational history (audit logs, reporting lines), user records are not simply "deleted" upon separation. Instead, when an employee leaves or requests deletion, their personally identifiable information (PII) is permanently ANONYMIZED. The historical record of their actions remains, but is no longer linked to a specific identity.
+c. Roles & Hierarchy: Hierarchical relationships can be adjusted to represent reporting lines. You are responsible for maintaining accurate access levels.
 
-5. DATA RETENTION & ANONYMIZATION
-We retain personal data only as long as necessary for the stated purposes.
+6. USER OBLIGATIONS
+You must:
+• Use the Service lawfully and only for permitted business purposes;
+• Maintain the confidentiality of your account credentials;
+• Ensure you have the legal right to add employee data to the system;
+• Not attempt to bypass access controls, reverse-engineer the Service, or scrape data.
 
-- Active Accounts: Data is retained for the duration of the customer agreement.
-- Deletion Requests: Upon a valid request for deletion (Right to Erasure), strictly personal identifiers (Name, Email, Phone) will be permanently anonymized.
-  * Note: Non-personal historical data (e.g., "A Manager approved a request on [Date]") will be retained to preserve the integrity of the company's audit logs.
+7. DATA, PRIVACY & SECURITY
+• Data Storage: We store data in secure data centers within the EEA (Germany/Estonia). However, data in transit is processed via the third-party messaging platform of your choice.
+• Privacy Policy: Your use of the Service is also governed by our Privacy Policy, which is incorporated here by reference.
+• Responsibility: You are the "Data Controller" for the content you upload (employee data, files). You must ensure you have a lawful basis for processing this data.
+• Security: We apply enterprise-grade technical safeguards. However, we cannot guarantee the security of data while it is flowing through third-party apps (e.g., WhatsApp).
 
-6. YOUR RIGHTS
-Under the GDPR, you have the right to:
-- Access & Portability: Request a copy of your personal data.
-- Rectification: Correct inaccurate data.
-- Erasure (Right to be Forgotten): Request the anonymization of your personal identity from our active systems.
-- Restriction & Objection: Object to specific processing activities.
+8. INTEGRATIONS & THIRD-PARTY RISKS
+The Service relies on the availability of third-party platforms (e.g., Telegram, Discord).
+• Idealistic is NOT responsible for outages, API changes, account bans, or privacy breaches originating from these third-party platforms.
+• If a third-party platform ceases to support our integration, we may suspend related features without liability.
 
-To exercise these rights, contact us at: contact@idealistic.ai
+9. CONTENT AND ACCEPTABLE USE
+• Prohibited: You may not use the Service to generate or store illegal content, harassment, malware, or sexually explicit material.
+• Compliance: You agree not to use the Service in a way that violates the policies of the underlying messaging platform (e.g., violating WhatsApp's Business Policy).
 
-7. DATA SECURITY
-We use appropriate technical and organizational measures (including enterprise-grade encryption) to safeguard your personal data against loss, misuse, or unauthorized access while it is stored on our servers.
+10. REMINDERS, DEADLINES & AUTOMATION
+• Best Effort Delivery: Reminders and notifications are sent on a "best effort" basis. Delivery may be affected by third-party platform constraints or network issues. We are not liable for missed deadlines resulting from undelivered notifications.
+• Automatic Language: The Service defaults to the last language detected in the conversation.
 
-However, we cannot guarantee the security of data while it is being transmitted through third-party messaging apps (e.g., WhatsApp), as this infrastructure is outside our control.
+11. FEES & PRICING
+• Pricing Models: Services may be offered via subscription tiers or custom enterprise agreements.
+• Payment Terms: Specific pricing and billing cycles will be agreed upon at the time of purchase or outlined in a separate Service Order.
+• Changes: We reserve the right to modify pricing with 30 days' notice for active subscriptions.
 
-8. INTERNATIONAL DATA TRANSFERS
-Our primary servers are located within the European Economic Area (EEA).
+12. INTELLECTUAL PROPERTY
+All rights, title, and interest in the Service (software, code, designs, documentation) remain with Idealistic. You are granted a limited, non-exclusive, revocable license to use the Service. You retain ownership of the data you input into the system.
 
-However, depending on the messaging platform you use to access the service, your data may be processed through servers located outside the EEA (e.g., the United States). By using these platforms, you consent to such transfers, which are governed by the respective platform's Terms of Service.
+13. LIMITATION OF LIABILITY
+To the maximum extent permitted by law:
+• Idealistic is not liable for indirect, incidental, or consequential damages (including loss of data, profits, or goodwill).
+• Our total cumulative liability for any claims arising out of these Terms shall not exceed the amount you paid to us for the Service in the twelve (12) months preceding the claim.
+• We accept no liability for data compromised due to the security failures of third-party messaging platforms.
 
-9. CHANGES TO THIS POLICY
-We may update this privacy policy periodically. Changes will be communicated via our website or directly where applicable.
+14. TERMINATION
+We may suspend or terminate your access immediately if you violate these Terms or if required by law. You may terminate your use of the Service at any time by contacting support.
 
-CONTACT US
-If you have questions about this policy or your data, you can contact us at:
+15. CHANGES TO THESE TERMS
+We may update these Terms of Use. Material changes will be notified via the Service or email. Continued use after the effective date constitutes acceptance of the new Terms.
 
+16. GOVERNING LAW & JURISDICTION
+These Terms are governed by the laws of the Hellenic Republic (Greece). Any disputes arising from these Terms shall be resolved in the competent courts of Athens, Greece, unless otherwise specified in a valid Enterprise Contract.
+
+17. CONTACT
+Questions regarding these Terms should be sent to:
 Idealistic
-contact@idealistic.ai
+Email: contact@idealistic.ai
 Järvevana tee 9, Tallinn, 11314, Estonia
