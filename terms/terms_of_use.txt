@@ -2,7 +2,7 @@ TERMS OF USE
 Effective Date: 18th of January 2026
 Software: Idealistic
 Contact: contact@idealistic.ai
-Website: https://www.idealistic.ai/
+Website: https://www.idealistic.ai
 Version Number: 1
 
 1. AGREEMENT
@@ -84,6 +84,6 @@ These Terms are governed by the laws of the Hellenic Republic (Greece). Any disp
 
 17. CONTACT
 Questions regarding these Terms should be sent to:
-Idealistic
+Idealistic OÜ
 Email: contact@idealistic.ai
 Järvevana tee 9, Tallinn, 11314, Estonia
