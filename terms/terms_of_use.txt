@@ -59,9 +59,10 @@ The Service relies on the availability of third-party platforms (e.g., Telegram,
 • Best Effort Delivery: Reminders and notifications are sent on a "best effort" basis. Delivery may be affected by third-party platform constraints or network issues. We are not liable for missed deadlines resulting from undelivered notifications.
 • Automatic Language: The Service defaults to the last language detected in the conversation.
 
-11. FEES & PRICING
+11. FEES, PRICING & NO REFUNDS
 • Pricing Models: Services may be offered via subscription tiers or custom enterprise agreements.
 • Payment Terms: Specific pricing and billing cycles will be agreed upon at the time of purchase or outlined in a separate Service Order.
+• No Refunds & EU Waiver: The Service is primarily a business-to-business (B2B) tool. All purchases and subscription fees are final and non-refundable. To the extent you qualify as a consumer under EU law, by completing your purchase, you expressly consent to the immediate provision of the digital service and acknowledge that you thereby waive and forfeit your 14-day right of withdrawal under the EU Consumer Rights Directive.
 • Changes: We reserve the right to modify pricing with 30 days' notice for active subscriptions.
 
 12. INTELLECTUAL PROPERTY
