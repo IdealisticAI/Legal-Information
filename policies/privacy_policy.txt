@@ -1,45 +1,44 @@
 PRIVACY POLICY
-Effective Date: 18th of January 2026
+Effective Date: 2nd of May 2026
 Software: Idealistic
 Contact: contact@idealistic.ai
 Website: https://www.idealistic.ai
-Version Number: 1
+Version Number: 2
 
-At Idealistic ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
+At Idealistic OÜ ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
 
 1. DATA WE COLLECT
-We collect data necessary to function as an organizational management tool. This includes:
-- Identity Data: Name, role/title, and contact details (e.g., email address, phone number).
-- Interaction Data: Content of messages, commands, and queries sent through our supported interfaces (e.g., WhatsApp, Discord, Telegram).
-- Organizational Data: Hierarchical relationships (managers, subordinates), salaries (if provided), and team structures.
-- Technical Data: IP addresses, browser types, and device identifiers used to access our web portals.
+To execute its core functions as an organizational management tool, the Service ingests, processes, and structures various data types. Depending on your usage, this may include:
+- Identity & Authentication Data: Information required to verify users and assign permissions (e.g., names, contact details, platform-specific unique identifiers, digital signatures, and IP addresses for consent logging).
+- Interaction & Conversational Data: The raw and processed content of all inputs sent to the Service (e.g., text prompts, audio clips, file uploads, commands) used to extract intent and execute operations.
+- Organizational & Operational Metadata: Any business logic provided by the user, including but not limited to hierarchical structures, compensation markers, performance metrics, workflow statuses, and internal relational maps.
+- Telemetry & Technical Data: System-generated data necessary for security and optimization, including IP addresses, timestamps, device profiles, and interaction logs.
 
 2. PURPOSES OF DATA PROCESSING
 We process your personal data to:
-- Provide the Service: Facilitate company management, hierarchy tracking, and automated reporting.
-- AI Processing: Analyze text inputs ("prompts") to extract intent and execute management commands.
-- Security & Logs: Maintain the integrity of our systems and prevent abuse.
-- Compliance: Fulfill legal and tax obligations.
+- Provide the Service: Facilitate organizational structuring, hierarchy tracking, access management, and automated operations.
+- AI & Multimodal Processing: Analyze varied inputs to extract intent, execute commands, and generate relevant outputs.
+- Security & Logs: Maintain the integrity of our systems, prevent abuse, and log definitive consent events.
+- Compliance: Fulfill legal, tax, and contractual obligations.
 
 3. LEGAL BASIS
 We process personal data based on:
-- Contractual Necessity: To deliver the services defined in our Terms of Use.
-- Legitimate Interests: To improve our AI models, ensure security, and maintain historical organizational records.
-- Legal Obligations: Compliance with labor and tax laws.
+- Contractual Necessity: To deliver the capabilities defined in our Terms of Use.
+- Legitimate Interests: To improve our AI models, ensure network security, and maintain historical organizational records.
+- Legal Obligations: Compliance with statutory frameworks.
 
 4. THIRD-PARTY PLATFORMS & DATA SHARING
-Crucial Notice regarding Messaging Platforms:
-Our service operates via third-party interfaces (including but not limited to WhatsApp, Discord, and Telegram). By choosing to use our service through these platforms, you acknowledge that data transmission is subject to the privacy policies and infrastructure of those providers.
+Crucial Notice regarding Transit Infrastructure:
+Our service operates via third-party communication interfaces (including but not limited to WhatsApp, Discord, and Telegram). By utilizing our service through these platforms, you acknowledge that data transmission is subject to the privacy policies and infrastructure of those providers.
 
 - We do NOT sell your personal data.
-- We share data with trusted infrastructure providers (e.g., hosting services in Germany) strictly for the purpose of running the application.
+- We share data with trusted infrastructure providers (e.g., hosting services in the EEA) strictly for the purpose of operating the application.
 
 5. DATA RETENTION & ANONYMIZATION
 We retain personal data only as long as necessary for the stated purposes.
-
-- Active Accounts: Data is retained for the duration of the customer agreement.
-- Deletion Requests: Upon a valid request for deletion (Right to Erasure), strictly personal identifiers (Name, Email, Phone) will be permanently anonymized.
-  * Note: Non-personal historical data (e.g., "A Manager approved a request on [Date]") will be retained to preserve the integrity of the company's audit logs.
+- Active Accounts: Data is retained for the duration of the organizational agreement.
+- Deletion Requests (Right to Erasure): Upon a valid request for deletion, strictly personal identifiers (Name, Email, Phone, Platform ID) will be permanently ANONYMIZED. 
+  * Note: Non-personal operational metadata (e.g., "A specific administrative role executed a command on [Date]") will be retained to preserve the structural integrity of the organization's audit logs.
 
 6. YOUR RIGHTS
 Under the GDPR, you have the right to:
@@ -48,24 +47,21 @@ Under the GDPR, you have the right to:
 - Erasure (Right to be Forgotten): Request the anonymization of your personal identity from our active systems.
 - Restriction & Objection: Object to specific processing activities.
 
-To exercise these rights, contact us at: contact@idealistic.ai
+To exercise these rights, please contact our Data Protection Office at: privacy@idealistic.ai
 
 7. DATA SECURITY
-We use appropriate technical and organizational measures (including enterprise-grade encryption) to safeguard your personal data against loss, misuse, or unauthorized access while it is stored on our servers.
-
-However, we cannot guarantee the security of data while it is being transmitted through third-party messaging apps (e.g., WhatsApp), as this infrastructure is outside our control.
+We use appropriate technical and organizational measures (including enterprise-grade encryption and one-time token authentication) to safeguard your personal data while stored on our servers. 
+However, we cannot guarantee the security of data while it is being transmitted through third-party messaging apps or external transit infrastructure, as this is outside our direct control.
 
 8. INTERNATIONAL DATA TRANSFERS
-Our primary servers are located within the European Economic Area (EEA).
-
-However, depending on the messaging platform you use to access the service, your data may be processed through servers located outside the EEA (e.g., the United States). By using these platforms, you consent to such transfers, which are governed by the respective platform's Terms of Service.
+Our primary processing and storage servers are located within the European Economic Area (EEA). 
+However, depending on the third-party transit platform you use to access the service, your data may be routed through servers located outside the EEA (e.g., the United States). By using these platforms, you consent to such transfers, governed by the respective platform's policies.
 
 9. CHANGES TO THIS POLICY
-We may update this privacy policy periodically. Changes will be communicated via our website or directly where applicable.
+We may update this privacy policy periodically to reflect evolving capabilities or legal requirements. Material changes will be communicated via our interfaces, and continued use will require explicit consent.
 
-CONTACT US
-If you have questions about this policy or your data, you can contact us at:
-
+10. CONTACT US
 Idealistic OÜ
-contact@idealistic.ai
 Järvevana tee 9, Tallinn, 11314, Estonia
+Privacy & GDPR Inquiries: privacy@idealistic.ai
+General Contact: contact@idealistic.ai
