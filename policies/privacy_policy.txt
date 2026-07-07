@@ -1,44 +1,56 @@
 PRIVACY POLICY
-Effective Date: 2nd of May 2026
+Effective Date: 7th of July 2026
 Software: Idealistic
 Contact: contact@idealistic.ai
 Website: https://www.idealistic.ai
-Version Number: 2
+Version Number: 3
 
 At Idealistic OÜ ("we", "us", "our"), we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR").
 
 1. DATA WE COLLECT
 To execute its core functions as an organizational management tool, the Service ingests, processes, and structures various data types. Depending on your usage, this may include:
 - Identity & Authentication Data: Information required to verify users and assign permissions (e.g., names, contact details, platform-specific unique identifiers, digital signatures, and IP addresses for consent logging).
-- Interaction & Conversational Data: The raw and processed content of all inputs sent to the Service (e.g., text prompts, audio clips, file uploads, commands) used to extract intent and execute operations.
+- Interaction & Conversational Data: The raw and processed content of all inputs sent to the Service (e.g., text prompts, audio recordings, file uploads, commands) used to extract intent and execute operations.
 - Organizational & Operational Metadata: Any business logic provided by the user, including but not limited to hierarchical structures, compensation markers, performance metrics, workflow statuses, and internal relational maps.
 - Telemetry & Technical Data: System-generated data necessary for security and optimization, including IP addresses, timestamps, device profiles, and interaction logs.
 
-2. PURPOSES OF DATA PROCESSING
+2. DATA LIFECYCLE ARCHITECTURE
+To provide absolute transparency into our data governance, the lifecycle of user data from ingestion to deletion is strictly mapped as follows:
+
+a. Ingestion, Extraction & Storage
+- What is Stored: Raw multimodal inputs (including text messages, audio recordings, and file uploads) are ingested and securely stored within our databases. The Service retains both the raw input and the resulting operational outcomes to maintain system context, historical continuity, and operational logic.
+- What is Extracted: Our AI models parse the raw input to extract operational intent (e.g., assigning a role, extracting variables). While the intent executes structural changes, the original message and associated file assets remain securely stored and retrievable by the system.
+
+b. Hosting & Access
+- Infrastructure Provider: All raw conversational data, uploaded files, and operational metadata are hosted on secure, dedicated servers provided by Hetzner, located entirely within the European Economic Area (EEA).
+- Access Controls: Data is strictly compartmentalized. Access is limited to (1) the automated processing systems of the Service, (2) authorized organizational administrators within your specific workspace, and (3) restricted internal engineering personnel solely for security audits or critical debugging. 
+
+c. Retention & Anonymization (Right to Erasure)
+- Operational Retention: Relational and conversational data is retained for the lifespan of the active organizational account to preserve structural continuity.
+- Anonymization Protocol: Upon a user's separation from an organization or a formal deletion request, we do not perform a "hard delete" of historical chat logs or audit records, as this would corrupt the organization's historical integrity. Instead, all Personally Identifiable Information (PII)—including names, contact details, and platform identifiers—is permanently ANONYMIZED. 
+- Audit Records: The historical record of actions and raw messages (e.g., text inputs or commands) remains intact, but the identity associated with that data is irrecoverably replaced with an anonymous identifier.
+- Backups: Data securely held in system backups is subject to a strict 7-day automated rolling overwrite cycle. Once a profile is anonymized in our primary systems, all associated identifiable data is completely purged from all disaster recovery backups within a maximum of 7 days.
+
+3. PURPOSES OF DATA PROCESSING
 We process your personal data to:
 - Provide the Service: Facilitate organizational structuring, hierarchy tracking, access management, and automated operations.
 - AI & Multimodal Processing: Analyze varied inputs to extract intent, execute commands, and generate relevant outputs.
 - Security & Logs: Maintain the integrity of our systems, prevent abuse, and log definitive consent events.
 - Compliance: Fulfill legal, tax, and contractual obligations.
 
-3. LEGAL BASIS
+4. LEGAL BASIS
 We process personal data based on:
 - Contractual Necessity: To deliver the capabilities defined in our Terms of Use.
-- Legitimate Interests: To improve our AI models, ensure network security, and maintain historical organizational records.
+- Legitimate Interests: To ensure network security and maintain historical organizational records.
 - Legal Obligations: Compliance with statutory frameworks.
 
-4. THIRD-PARTY PLATFORMS & DATA SHARING
+5. THIRD-PARTY PLATFORMS & DATA SHARING
 Crucial Notice regarding Transit Infrastructure:
 Our service operates via third-party communication interfaces (including but not limited to WhatsApp, Discord, and Telegram). By utilizing our service through these platforms, you acknowledge that data transmission is subject to the privacy policies and infrastructure of those providers.
 
 - We do NOT sell your personal data.
-- We share data with trusted infrastructure providers (e.g., hosting services in the EEA) strictly for the purpose of operating the application.
-
-5. DATA RETENTION & ANONYMIZATION
-We retain personal data only as long as necessary for the stated purposes.
-- Active Accounts: Data is retained for the duration of the organizational agreement.
-- Deletion Requests (Right to Erasure): Upon a valid request for deletion, strictly personal identifiers (Name, Email, Phone, Platform ID) will be permanently ANONYMIZED. 
-  * Note: Non-personal operational metadata (e.g., "A specific administrative role executed a command on [Date]") will be retained to preserve the structural integrity of the organization's audit logs.
+- Infrastructure & Security Subprocessors: We share data with trusted infrastructure providers strictly for the purpose of hosting, securing, and operating the application. Our authorized subprocessors include Hetzner (primary database hosting and storage), Cloudflare (edge routing, content delivery, and web application security), and Google (internal routing, workspace infrastructure, and telemetry). 
+- AI Processing via OpenAI: We utilize OpenAI's enterprise API for our core extraction and generative capabilities. Under OpenAI's API policies, your conversational data is explicitly opted out of model training; your inputs are NEVER used to train their foundational models. Data transmitted to OpenAI is subject to their strict API data retention limits (retained for a maximum of 30 days solely for security and abuse monitoring before being permanently deleted from their servers).
 
 6. YOUR RIGHTS
 Under the GDPR, you have the right to:
@@ -50,15 +62,13 @@ Under the GDPR, you have the right to:
 To exercise these rights, please contact our Data Protection Office at: privacy@idealistic.ai
 
 7. DATA SECURITY
-We use appropriate technical and organizational measures (including enterprise-grade encryption and one-time token authentication) to safeguard your personal data while stored on our servers. 
-However, we cannot guarantee the security of data while it is being transmitted through third-party messaging apps or external transit infrastructure, as this is outside our direct control.
+We use appropriate technical and organizational measures (including enterprise-grade encryption, edge-network firewalls, and one-time token authentication) to safeguard your personal data. However, we cannot guarantee the security of data while it is being transmitted through third-party messaging apps or external transit infrastructure prior to reaching our secured networks.
 
 8. INTERNATIONAL DATA TRANSFERS
-Our primary processing and storage servers are located within the European Economic Area (EEA). 
-However, depending on the third-party transit platform you use to access the service, your data may be routed through servers located outside the EEA (e.g., the United States). By using these platforms, you consent to such transfers, governed by the respective platform's policies.
+Our primary processing and storage servers (Hetzner) are located within the European Economic Area (EEA). However, by utilizing global edge networks (Cloudflare), enterprise tools (Google), or specific third-party transit platforms, some telemetry, routing, or conversational data may be processed outside the EEA (e.g., in the United States). Where such international transfers occur, we ensure compliance with the GDPR by relying on legally approved transfer mechanisms, including the EU-US Data Privacy Framework (DPF) and Standard Contractual Clauses (SCCs), to ensure your data rights remain fully protected.
 
 9. CHANGES TO THIS POLICY
-We may update this privacy policy periodically to reflect evolving capabilities or legal requirements. Material changes will be communicated via our interfaces, and continued use will require explicit consent.
+We may update this privacy policy periodically to reflect evolving capabilities, subprocessor additions, or legal requirements. Material changes will be communicated via our interfaces, and continued use will require explicit consent.
 
 10. CONTACT US
 Idealistic OÜ
