@@ -3,7 +3,7 @@ Effective Date: 2nd of May 2026
 Software: Idealistic
 Contact: contact@idealistic.ai
 Website: https://www.idealistic.ai
-Version Number: 2
+Version Number: 3
 
 1. AGREEMENT
 By using Idealistic ("Service"), provided by Idealistic OÜ ("we", "us"), you agree to these Terms of Use. If you do not agree, do not use the Service. These Terms apply to all users, administrators, and visitors of the Service.
